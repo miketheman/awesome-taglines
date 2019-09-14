@@ -97,9 +97,12 @@ Commonly used to extend func
 
 ## Services
 
+- [Amazon Web Services](https://aws.amazon.com/): offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.
 - [Bitbucket](https://bitbucket.org/): The Git solution for professional teams
 - [GitHub](https://github.com): is where people build software
 - [GitLab](https://gitlab.com): is a complete DevOps platform.
+- [Google Cloud](https://cloud.google.com): What are you solving for? Transform your business with Google Cloud.
+- [SourceForge](https://sourceforge.net/): Download, Develop and Publish Free Open Source Software
 
 ## Tools
 
