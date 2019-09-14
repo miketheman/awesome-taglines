@@ -110,6 +110,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 - [Eclipse](https://www.eclipse.org): The Platform for Open Innovation and Collaboration
 - [GNU Emacs](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor — and more.
 - [GNU nano](https://www.nano-editor.org): was designed to be a free replacement for the Pico text editor, part of the Pine email suite from The University of Washington.
+- [Linux](https://www.linuxfoundation.org/projects/linux/) - The Linux kernel is the largest component of the Linux operating system and is charged with managing the hardware, running user programs, and maintaining the security and integrity of the whole system.
 - [PyCharm](https://www.jetbrains.com/pycharm/): The Python IDE for Professional Developers
 - [Sublime Text](https://www.sublimetext.com): A sophisticated text editor for code, markup and prose
 - [Vim](https://www.vim.org/): the ubiquitous text editor
