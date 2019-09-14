@@ -58,11 +58,30 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Backend Frameworks
 
+### Crystal
+
 - [Amber](https://amberframework.org/): Productivity. Performance. Happiness.
+- [Kemal](https://kemalcr.com): Fast, Effective, Simple.
+- [Lucky](https://luckyframework.org/): Build lightning fast web apps with fewer bugs
+
+### Python
+
+- [Bottle](https://bottlepy.org/): is a fast, simple and lightweight WSGI micro web-framework for Python.
 - [Django](https://www.djangoproject.com): The web framework for perfectionists with deadlines.
+- [Flask](https://palletsprojects.com/p/flask/): web development, one drop at a time
+- [Pyramid](https://trypyramid.com/): The Start Small, Finish Big, Stay Finished Framework
+- [Tornado](https://www.tornadoweb.org): is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+
+### Ruby
+
+- [Ruby on Rails](https://rubyonrails.org): A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
+- [Padrino](http://padrinorb.com/): The Elegant Ruby Web Framework
+- [Sinatra](http://sinatrarb.com/): is a DSL for quickly creating web applications in Ruby with minimal effort
+
+### Other
+
 - [Express](https://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js
 - [Laravel](https://laravel.com/): The PHP Framework for Web Artisans
-- [Ruby on Rails](https://rubyonrails.org): A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
 - [Spring](https://spring.io/): the source for modern java
 
 ## Frontend Frameworks
@@ -110,7 +129,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 - [DataGrip](https://www.jetbrains.com/datagrip): Many databases, one tool
 - [Eclipse](https://www.eclipse.org): The Platform for Open Innovation and Collaboration
 - [Ergodox](https://www.ergodox.io/): A keyboard project designed with ergonomics in mind, available either as a DIY kit or an assembled, commercial version.
-- [GNU Bash](https://www.gnu.org/software/bash/): The GNU Project's Bourne Again SHell, a complete implementation of the IEEE POSIX and Open Group shell specification with interactive command line editing, job control on architectures that support it, csh-like features such as history substitution and brace expansion, and a slew of other features. 
+- [GNU Bash](https://www.gnu.org/software/bash/): The GNU Project's Bourne Again SHell, a complete implementation of the IEEE POSIX and Open Group shell specification with interactive command line editing, job control on architectures that support it, csh-like features such as history substitution and brace expansion, and a slew of other features.
 - [GNU Emacs](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor — and more.
 - [GNU nano](https://www.nano-editor.org): was designed to be a free replacement for the Pico text editor, part of the Pine email suite from The University of Washington.
 - [Linux](https://www.linuxfoundation.org/projects/linux/): is the most successful open source project in history
