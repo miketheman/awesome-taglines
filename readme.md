@@ -109,6 +109,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 - [Atom](https://atom.io): A hackable text editor for the 21st Century
 - [DataGrip](https://www.jetbrains.com/datagrip): Many databases, one tool
 - [Eclipse](https://www.eclipse.org): The Platform for Open Innovation and Collaboration
+- [GNU Bash](https://www.gnu.org/software/bash/): The GNU Project's Bourne Again SHell, a complete implementation of the IEEE POSIX and Open Group shell specification with interactive command line editing, job control on architectures that support it, csh-like features such as history substitution and brace expansion, and a slew of other features. 
 - [GNU Emacs](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor — and more.
 - [GNU nano](https://www.nano-editor.org): was designed to be a free replacement for the Pico text editor, part of the Pine email suite from The University of Washington.
 - [Linux](https://www.linuxfoundation.org/projects/linux/) - The Linux kernel is the largest component of the Linux operating system and is charged with managing the hardware, running user programs, and maintaining the security and integrity of the whole system.
