@@ -125,7 +125,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 Materials or language copied here hold their copyright under the original site's license model.
 If any of this is in some sort of violation of those licenses, please let me know via an
-Issue or Pull Request! I am not a lawyer, just soemone trying to do cool things with software.
+Issue or Pull Request! I am not a lawyer, just someone trying to do cool things with software.
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
