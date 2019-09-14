@@ -75,7 +75,6 @@ About this section. Optional. Keep this short and focus on the list.
 ## Libraries
 
 Also known as packages, dependencies, gems, wheels, or whatever is appropriate for that community.
-Commonly used to extend func
 
 ### JavaScript
 
