@@ -109,6 +109,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 
 - [jQuery](https://jquery.com): The Write Less, Do More, JavaScript Library
 - [lodash](https://lodash.com/): A modern JavaScript utility library delivering modularity, performance & extras.
+- [Underscore.js](https://underscorejs.org): JavaScript's utility _ belt
 
 ### Python
 
