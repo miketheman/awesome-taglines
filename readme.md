@@ -57,7 +57,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [PHP](https://www.php.net): is a popular general-purpose scripting language that is especially suited to web development.
 - [Python](https://www.python.org/): is a programming language that lets you work quickly and integrate systems more effectively.
 - [R](https://www.r-project.org): is a language and environment for statistical computing and graphics.
-- [Ruby](https://www.ruby-lang.org/): is... A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+- [Ruby](https://www.ruby-lang.org/): A Programmer's Best Friend
 - [Rust](https://www.rust-lang.org/): A language empowering everyone to build reliable and efficient software.
 - [Scala](https://www.scala-lang.org/): combines object-oriented and functional programming in one concise, high-level language.
 - [SQL]() - TODO: need source/citation
