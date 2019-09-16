@@ -43,6 +43,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Clojure](https://clojure.org): is a robust, practical, and fast programming language with a set of useful features that together form a simple, coherent, and powerful tool.
 - [Crystal](https://crystal-lang.org/): A language for humans and computers
 - [Elixir](http://elixir-lang.org): is a dynamic, functional language designed for building scalable and maintainable applications.
+- [Elm](https://elm-lang.org): A delightful language for reliable webapps.
 - [Erlang](https://www.erlang.org): Build massively scalable soft real-time systems
 - [F#](https://dotnet.microsoft.com/languages/fsharp): An open-source, cross-platform functional programming language for .NET.
 - [Go](https://golang.org/): is an open source programming language that makes it easy to build simple, reliable, and efficient software.
