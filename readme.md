@@ -42,6 +42,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [C++](https://isocpp.org/): is a general-purpose programming language with a bias towards systems programming that: is a better C; supports data abstraction; supports object-oriented programming; supports generic programming; supports functional programming.
 - [Clojure](https://clojure.org): is a robust, practical, and fast programming language with a set of useful features that together form a simple, coherent, and powerful tool.
 - [Crystal](https://crystal-lang.org/): A language for humans and computers
+- [Dark](https://darklang.com): A language built for deployless backends
 - [Elixir](http://elixir-lang.org): is a dynamic, functional language designed for building scalable and maintainable applications.
 - [Elm](https://elm-lang.org): A delightful language for reliable webapps.
 - [Erlang](https://www.erlang.org): Build massively scalable soft real-time systems
