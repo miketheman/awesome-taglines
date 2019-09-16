@@ -50,7 +50,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Go](https://golang.org/): is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 - [Groovy](https://groovy-lang.org/): A multi-faceted language for the Java platform
 - [Haskell](https://www.haskell.org): An advanced, purely functional programming language
-- [Java](https://www.java.com/): is at the heart of our digital lifestyle. It's the platform for launching careers, exploring human-to-digital interfaces, architecting the world's best applications, and unlocking innovation everywhere—from garages to global organizations.
+- [Java](https://www.java.com/): Powers Our Digital World
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
 - [Kotlin](https://kotlinlang.org/): is an OSS statically typed programming language that targets the JVM, Android, JavaScript and Native.
 - [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html): is the primary programming language you use when writing software for OS X and iOS. It's a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime.
