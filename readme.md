@@ -115,6 +115,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 
 ### Python
 
+- [Black](https://black.readthedocs.io/): The Uncompromising Code Formatter
 - [pytest](https://pytest.org/): helps you write better programs
 - [Requests](https://2.python-requests.org/): HTTP for Humans™
 - [SQLAlchemy](https://www.sqlalchemy.org): The Database Toolkit for Python
@@ -122,7 +123,9 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 
 ### Ruby
 
+- [Bundler](https://bundler.io): The best way to manage a Ruby application's gems
 - [Pry](http://pryrepl.org/): is a powerful alternative to the standard IRB shell for Ruby.
+- [Rack](https://rack.github.io/): powers web applications
 - [RAKE](https://ruby.github.io/rake/): Ruby Make
 - [RSpec](https://rspec.info/): Behaviour Driven Development for Ruby. Making TDD Productive and Fun.
 
