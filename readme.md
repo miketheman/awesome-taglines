@@ -66,6 +66,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Swift](https://swift.org/): is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns.
 - [TypeScript](https://www.typescriptlang.org/): JavaScript that scales.
 - [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/): is an approachable language with a simple syntax for building type-safe, object-oriented apps.
+- [Wren](http://wren.io/): a classy little scripting language
 
 ## Backend Frameworks
 
