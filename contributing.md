@@ -9,7 +9,7 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 - Prefer taglines - short descriptions of the entry - over wordier explanations.
-- Keep entires within a section alphabetically-sorted.
+- Keep entries within a section alphabetically-sorted.
 - And don't forget to have fun and enjoy!
 
 Thank you for your suggestions!
