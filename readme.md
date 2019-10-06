@@ -36,7 +36,7 @@ a [contribution](#contribute)!
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [Arc](http://arclanguage.org/) - Arc is designed for exploratory programming: the kind where you decide what to write by writing it.
+- [Arc](http://arclanguage.org/): a new dialect of Lisp.
 - [C]() - TODO: need source/citation
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/): (pronounced "C sharp") is a simple, modern, object-oriented, and type-safe programming language.
 - [C++](https://isocpp.org/): is a general-purpose programming language with a bias towards systems programming that: is a better C; supports data abstraction; supports object-oriented programming; supports generic programming; supports functional programming.
