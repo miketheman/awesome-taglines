@@ -36,6 +36,7 @@ a [contribution](#contribute)!
 
 About this section. Optional. Keep this short and focus on the list.
 
+- [Ada](https://www.adaic.org/): Time-tested, safe and secure
 - [Arc](http://arclanguage.org/): a new dialect of Lisp.
 - [C]() - TODO: need source/citation
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/): (pronounced "C sharp") is a simple, modern, object-oriented, and type-safe programming language.
