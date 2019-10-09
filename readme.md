@@ -140,6 +140,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 - [GitLab](https://gitlab.com): is a complete DevOps platform.
 - [Google Cloud](https://cloud.google.com): What are you solving for? Transform your business with Google Cloud.
 - [SourceForge](https://sourceforge.net/): Download, Develop and Publish Free Open Source Software
+- [Stack Overflow](https://stackoverflow.com): Where Developers Learn, Share, & Build Careers
 
 ## Tools
 
