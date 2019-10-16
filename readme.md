@@ -55,6 +55,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
 - [Julia](https://github.com/JuliaLang/julia): A fresh approach to technical computing.
 - [Kotlin](https://kotlinlang.org/): is an OSS statically typed programming language that targets the JVM, Android, JavaScript and Native.
+- [Mint](https://www.mint-lang.com/): A refreshing language for the front-end web.
 - [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html): is the primary programming language you use when writing software for OS X and iOS. It's a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime.
 - [Perl5](https://www.perl.org): is a highly capable, feature-rich programming language with over 30 years of development.
 - [Perl6](https://www.perl6.org/): the newest member of the family of languages known as Perl.
