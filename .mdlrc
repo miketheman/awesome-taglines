@@ -1,0 +1,14 @@
+# mdl or markdownlint configuration file
+rules "~MD013", "~MD024"
+
+## notes:
+# MD013 https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md#md013---line-length
+# This is one to work towards - by reformatting existing lines to be shorter
+# than 80 characters. It's also a good indicator of a tagline - so it's
+# possible that this rule may be re-introduced later.
+#
+# MD024 https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md#md024---multiple-headers-with-the-same-content
+# Since we want to allow for a TOC headers for sub-categories of items
+# under a grouping, such as "tools"->"python", "services"->"python" this
+# rule is not as applicable. We also use `gh-md-toc` to generate the TOC
+# and it should handle the duplication.
