@@ -147,6 +147,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 
 - [Atom](https://atom.io): A hackable text editor for the 21st Century
 - [DataGrip](https://www.jetbrains.com/datagrip): Many databases, one tool
+- [direnv](https://direnv.net/): unclutter your .profile
 - [Eclipse](https://www.eclipse.org): The Platform for Open Innovation and Collaboration
 - [Ergodox](https://www.ergodox.io/): A keyboard project designed with ergonomics in mind, available either as a DIY kit or an assembled, commercial version.
 - [GNU Bash](https://www.gnu.org/software/bash/): The GNU Project's Bourne Again SHell, a complete implementation of the IEEE POSIX and Open Group shell specification with interactive command line editing, job control on architectures that support it, csh-like features such as history substitution and brace expansion, and a slew of other features.
