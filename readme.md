@@ -44,6 +44,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Clojure](https://clojure.org): is a robust, practical, and fast programming language with a set of useful features that together form a simple, coherent, and powerful tool.
 - [Crystal](https://crystal-lang.org/): A language for humans and computers
 - [Dark](https://darklang.com): A language built for deployless backends
+- [Dart](https://dart.dev/): is a client-optimized language for fast apps on any platform
 - [Elixir](http://elixir-lang.org): is a dynamic, functional language designed for building scalable and maintainable applications.
 - [Elm](https://elm-lang.org): A delightful language for reliable webapps.
 - [Erlang](https://www.erlang.org): Build massively scalable soft real-time systems
@@ -105,6 +106,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [AngularJS](https://angularjs.org/): is what HTML would have been, had it been designed for building web-apps.
 - [Backbone.js](https://backbonejs.org/): Give your JS App some Backbone with Models, Views, Collections, and Events
 - [Ember](https://emberjs.com): A framework for ambitious web developers.
+- [Flutter](https://flutter.dev/): Beautiful native apps in record time
+- [hapi](https://hapi.dev/): The simple, secure framework developers trust
 - [React](https://reactjs.org): A JavaScript library for building user interfaces
 - [Vue.js](https://vuejs.org): The Progressive JavaScript Framework
 
