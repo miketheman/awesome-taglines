@@ -141,6 +141,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 
 - [Amazon Web Services](https://aws.amazon.com/): offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.
 - [Bitbucket](https://bitbucket.org/): The Git solution for professional teams
+- [Datadog](https://www.datadoghq.com/): See inside any stack, any app, at any scale, anywhere.
 - [GitHub](https://github.com): is where people build software
 - [GitLab](https://gitlab.com): is a complete DevOps platform.
 - [Google Cloud](https://cloud.google.com): What are you solving for? Transform your business with Google Cloud.
