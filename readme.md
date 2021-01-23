@@ -85,8 +85,10 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [Bottle](https://bottlepy.org/): is a fast, simple and lightweight WSGI micro web-framework for Python.
 - [Django](https://www.djangoproject.com): The web framework for perfectionists with deadlines.
+- [FastAPI](https://fastapi.tiangolo.com/): framework, high performance, easy to learn, fast to code, ready for production
 - [Flask](https://palletsprojects.com/p/flask/): web development, one drop at a time
 - [Pyramid](https://trypyramid.com/): The Start Small, Finish Big, Stay Finished Framework
+- [Starlette](https://www.starlette.io/): The little ASGI framework that shines.
 - [Tornado](https://www.tornadoweb.org): is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 
 ### Ruby
@@ -145,6 +147,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 - [GitHub](https://github.com): is where people build software
 - [GitLab](https://gitlab.com): is a complete DevOps platform.
 - [Google Cloud](https://cloud.google.com): What are you solving for? Transform your business with Google Cloud.
+- [Mux](https://mux.com/): The API to Video
 - [SourceForge](https://sourceforge.net/): Download, Develop and Publish Free Open Source Software
 - [Stack Overflow](https://stackoverflow.com): Where Developers Learn, Share, & Build Careers
 
