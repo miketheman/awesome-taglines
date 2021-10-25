@@ -134,7 +134,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 ### Ruby
 
 - [Bundler](https://bundler.io): The best way to manage a Ruby application's gems
-- [Pry](http://pryrepl.org/): is a powerful alternative to the standard IRB shell for Ruby.
+- [Pry](https://github.com/pry): is a powerful alternative to the standard IRB shell for Ruby.
 - [Rack](https://rack.github.io/): powers web applications
 - [RAKE](https://ruby.github.io/rake/): Ruby Make
 - [RSpec](https://rspec.info/): Behaviour Driven Development for Ruby. Making TDD Productive and Fun.
@@ -162,6 +162,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 - [GNU Emacs](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor — and more.
 - [GNU nano](https://www.nano-editor.org): was designed to be a free replacement for the Pico text editor, part of the Pine email suite from The University of Washington.
 - [Linux](https://www.linuxfoundation.org/projects/linux/): is the most successful open source project in history
+- [Logit.io](https://logit.io/): Logs and metrics managed, all in one place.
 - [PyCharm](https://www.jetbrains.com/pycharm/): The Python IDE for Professional Developers
 - [Sublime Text](https://www.sublimetext.com): A sophisticated text editor for code, markup and prose
 - [Vim](https://www.vim.org/): the ubiquitous text editor
