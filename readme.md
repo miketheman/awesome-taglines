@@ -101,6 +101,8 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [Express](https://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js
 - [Laravel](https://laravel.com/): The PHP Framework for Web Artisans
+- [Next.js](https://nextjs.org/): The React Framework for Production
+- [Remix](https://remix.run/): Build better websites
 - [Spring](https://spring.io/): the source for modern java
 
 ## Frontend Frameworks
@@ -111,6 +113,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Flutter](https://flutter.dev/): Beautiful native apps in record time
 - [hapi](https://hapi.dev/): The simple, secure framework developers trust
 - [React](https://reactjs.org): A JavaScript library for building user interfaces
+- [Svelte](https://svelte.dev/): Cybernetically enhanced web apps
 - [Vue.js](https://vuejs.org): The Progressive JavaScript Framework
 
 ## Libraries
@@ -119,8 +122,10 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 
 ### JavaScript
 
+- [Jest.js](https://jestjs.io/): Delightful JavaScript Testing
 - [jQuery](https://jquery.com): The Write Less, Do More, JavaScript Library
 - [lodash](https://lodash.com/): A modern JavaScript utility library delivering modularity, performance & extras.
+- [Storybook](https://storybook.js.org/): Build component driven UIs faster
 - [Underscore.js](https://underscorejs.org): JavaScript's utility _ belt
 
 ### Python
