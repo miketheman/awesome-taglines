@@ -132,6 +132,8 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 ### Python
 
 - [Black](https://black.readthedocs.io/): The Uncompromising Code Formatter
+- [Datasette](https://datasette.io): An open source multi-tool for exploring and publishing data
+- [Pydantic](https://docs.pydantic.dev/): is the most widely used data validation library for Python.
 - [pytest](https://pytest.org/): helps you write better programs
 - [Requests](https://2.python-requests.org/): HTTP for Humans™
 - [SQLAlchemy](https://www.sqlalchemy.org): The Database Toolkit for Python
