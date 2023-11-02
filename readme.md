@@ -163,6 +163,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 ## Tools
 
 - [Atom](https://atom.io): A hackable text editor for the 21st Century
+- [CodeLobster](https://codelobster.com/): A cross-platform code editor with plug-ins for all popular frameworks.
 - [DataGrip](https://www.jetbrains.com/datagrip): Many databases, one tool
 - [direnv](https://direnv.net/): unclutter your .profile
 - [Eclipse](https://www.eclipse.org): The Platform for Open Innovation and Collaboration
