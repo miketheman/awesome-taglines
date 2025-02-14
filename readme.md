@@ -21,6 +21,7 @@ a [contribution](#contribute)!
   - [Ruby](#ruby)
   - [Other](#other)
 - [Frontend Frameworks](#frontend-frameworks)
+- [Databases](#databases)
 - [Libraries](#libraries)
   - [JavaScript](#javascript)
   - [Python](#python-1)
@@ -115,6 +116,14 @@ About this section. Optional. Keep this short and focus on the list.
 - [React](https://reactjs.org): A JavaScript library for building user interfaces
 - [Svelte](https://svelte.dev/): Cybernetically enhanced web apps
 - [Vue.js](https://vuejs.org): The Progressive JavaScript Framework
+
+## Databases
+
+_Not going to have an argument on "what is a database" here, sufficice to say these are some._
+
+- [Cassandra](https://cassandra.apache.org/): Manage massive amounts of data, fast, without losing sleep
+- [MongoDB](https://www.mongodb.com/products/self-managed/community-edition): is a general-purpose document database.
+- [SQLite](https://www.sqlite.org/): Small. Fast. Reliable. Choose any three.
 
 ## Libraries
 
